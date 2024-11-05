@@ -4,7 +4,7 @@ import "strings"
 
 /**
 Valid Sudoku
- Leet Code URL - https://leetcode.com/problems/valid-sudoku/description/
+ Leet Code URL - https://leetcode.com/problems/zigzag-conversion/description/
 */
 func Convert(s string, numRows int) string {
 
